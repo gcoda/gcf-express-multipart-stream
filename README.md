@@ -1,4 +1,4 @@
-# Create readable stream from req.rawBoy
+# Create readable stream from req.rawBody
 
 For `graphql-upload` compatibility with Google Cloud Functions, but might be useful with other express middlewares
 
