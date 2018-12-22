@@ -1,0 +1,12 @@
+{
+  "name": "gcf-express-multipart-stream",
+  "version": "0.0.1",
+  "description": "Creates a readable stream from req.rawBody",
+  "main": "gcf-express-multipart-stream.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
