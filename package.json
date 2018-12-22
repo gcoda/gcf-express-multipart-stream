@@ -1,6 +1,6 @@
 {
   "name": "gcf-express-multipart-stream",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Creates a readable stream from req.rawBody",
   "main": "gcf-express-multipart-stream.js",
   "scripts": {
